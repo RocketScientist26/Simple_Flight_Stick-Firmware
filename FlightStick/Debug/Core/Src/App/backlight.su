@@ -1,0 +1,3 @@
+../Core/Src/App/backlight.c:6:9:Backlight_Get	4	static
+../Core/Src/App/backlight.c:9:6:Backlight_Set	16	static
+../Core/Src/App/backlight.c:12:6:Backlight_Init	16	static

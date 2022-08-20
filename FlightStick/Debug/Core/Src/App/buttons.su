@@ -1,0 +1,4 @@
+../Core/Src/App/buttons.c:7:6:Buttons_Interrupt	16	static
+../Core/Src/App/buttons.c:14:9:Buttons_Debounce_Read	24	static
+../Core/Src/App/buttons.c:33:9:Buttons_Pressed	24	static
+../Core/Src/App/buttons.c:47:9:Buttons_Read	16	static

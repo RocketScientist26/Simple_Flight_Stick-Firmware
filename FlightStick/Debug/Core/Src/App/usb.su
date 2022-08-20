@@ -1,0 +1,5 @@
+../Core/Src/App/usb.c:13:6:USB_Store_Button	16	static
+../Core/Src/App/usb.c:20:6:USB_Interrupt	16	static
+../Core/Src/App/usb.c:27:9:USB_Received	4	static
+../Core/Src/App/usb.c:30:9:USB_Read_Brightness	16	static
+../Core/Src/App/usb.c:38:6:USB_Send	24	static
